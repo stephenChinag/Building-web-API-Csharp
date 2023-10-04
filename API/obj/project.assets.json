@@ -528,11 +528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\StephenChinag\\Desktop\\Perojects\\Reactivity\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\StephenChinag\\Documents\\Perojects\\Reactivity\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\StephenChinag\\Desktop\\Perojects\\Reactivity\\API\\API.csproj",
+      "projectPath": "c:\\Users\\StephenChinag\\Documents\\Perojects\\Reactivity\\API\\API.csproj",
       "packagesPath": "C:\\Users\\StephenChinag\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\StephenChinag\\Desktop\\Perojects\\Reactivity\\API\\obj\\",
+      "outputPath": "c:\\Users\\StephenChinag\\Documents\\Perojects\\Reactivity\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -554,8 +554,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\StephenChinag\\Desktop\\Perojects\\Reactivity\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\StephenChinag\\Desktop\\Perojects\\Reactivity\\Application\\Application.csproj"
+            "c:\\Users\\StephenChinag\\Documents\\Perojects\\Reactivity\\Application\\Application.csproj": {
+              "projectPath": "c:\\Users\\StephenChinag\\Documents\\Perojects\\Reactivity\\Application\\Application.csproj"
             }
           }
         }
